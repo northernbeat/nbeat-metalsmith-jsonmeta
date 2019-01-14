@@ -1,0 +1,21 @@
+{
+    "name": "@northernbeat/metalsmith-jsonmeta",
+    "version": "1.0.0",
+    "description": "Import directory of JSON files into Metalsmith metadata",
+    "license": "MIT",
+    "main": "lib/index.js",
+    "repository": {
+        "type": "git",
+        "url": "github.com/northernbeat/nbeat-metalsmith-jsonmeta"
+    },
+    "author": {
+        "name": "Northern Beat",
+        "url": "http://www.northernbeat.no/"
+    },
+    "contributors": [
+        {
+            "name": "Eirik Refsdal",
+            "email": "eirik.refsdal@nbeat.no"
+        }
+    ]
+}
